@@ -46,7 +46,7 @@ I'm Ons, an ICT engineer who's passionate about exploring the intersection of te
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB" />
   
   <!-- VHDL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/VHDL_logo.svg/512px-VHDL_logo.svg.png" width="40" height="40" alt="VHDL" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMzc4LjA0IDQyNC4yM0gxMzMuOTZjLTI2LjEwNCAwLTQ3LjQ2Mi0yMS4zNTctNDcuNDYyLTQ3LjQ2MXYtMjQ0LjA4YzAtMjYuMTA1IDIxLjM1OC00Ny40NjIgNDcuNDYyLTQ3LjQ2MmgyNDQuMDhjMjYuMTA0IDAgNDcuNDYyIDIxLjM1NyA0Ny40NjIgNDcuNDYxdjI0NC4wOGMwIDI2LjEwNS0yMS4zNTggNDcuNDYyLTQ3LjQ2MiA0Ny40NjJtLTM5Ljg0Ny0yNTMuMDU5SDE3Ny45djE2MC4yOTRoMTYwLjI5NHpNMTgyLjM1MSAwSDE1Mi41djcxLjc2OGgyOS44NXptNTkuODc5IDBoLTI5Ljg1MXY3MS43NjhoMjkuODV6bTU5Ljg4IDBoLTI5Ljg1MXY3MS43NjhoMjkuODV6bTU5Ljg3OSAwaC0yOS44NTF2NzEuNzY4aDI5Ljg1ek03My4wMzkgMzI5LjY4NEgwdjI5Ljg1MWg3My4wNHptMC01OS44NzhIMHYyOS44NWg3My4wNHptMC01OS44OEgwdjI5Ljg1aDczLjA0em0wLTU5Ljg4SDB2MjkuODUxaDczLjA0ek01MTIgMzI5LjY4NGgtNzMuMDR2MjkuODUxSDUxMnptMC01OS44NzhoLTczLjA0djI5Ljg1SDUxMnptMC01OS44OGgtNzMuMDR2MjkuODVINTEyem0wLTU5Ljg4aC03My4wNHYyOS44NTFINTEyek0xODIuMzUgNDQwLjIzMkgxNTIuNVY1MTJoMjkuODV6bTU5Ljg4IDBoLTI5Ljg1MVY1MTJoMjkuODV6bTU5Ljg3OSAwaC0yOS44NTFWNTEyaDI5Ljg1em01OS44OCAwaC0yOS44NTFWNTEyaDI5Ljg1ek0xNTEuNTUgMTI4LjkwMmMwLTEyLjI3Mi0xMy4zNzYtMTkuOTgzLTI0LjAxOC0xMy44NDdjLTEwLjY0MyA2LjEzNS0xMC42NDMgMjEuNTU3IDAgMjcuNjkzczI0LjAxOC0xLjU3NiAyNC4wMTgtMTMuODQ3Ii8+PC9zdmc+" width="40" height="40" alt="VHDL" />
   
   <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
@@ -75,8 +75,6 @@ I'm Ons, an ICT engineer who's passionate about exploring the intersection of te
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </p>
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=onstriqui&hide_border=false&include_all_commits=true&count_private=true)<br/>
