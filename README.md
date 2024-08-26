@@ -45,11 +45,6 @@ I'm Ons, an ICT engineer who's passionate about exploring the intersection of te
   <!-- MATLAB -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB" />
   
-  <!-- VHDL -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 512 512">
-	<path fill="currentColor" d="M378.04 424.23H133.96c-26.104 0-47.462-21.357-47.462-47.461v-244.08c0-26.105 21.358-47.462 47.462-47.462h244.08c26.104 0 47.462 21.357 47.462 47.461v244.08c0 26.105-21.358 47.462-47.462 47.462m-39.847-253.059H177.9v160.294h160.294zM182.351 0H152.5v71.768h29.85zm59.879 0h-29.851v71.768h29.85zm59.88 0h-29.851v71.768h29.85zm59.879 0h-29.851v71.768h29.85zM73.039 329.684H0v29.851h73.04zm0-59.878H0v29.85h73.04zm0-59.88H0v29.85h73.04zm0-59.88H0v29.851h73.04zM512 329.684h-73.04v29.851H512zm0-59.878h-73.04v29.85H512zm0-59.88h-73.04v29.85H512zm0-59.88h-73.04v29.851H512zM182.35 440.232H152.5V512h29.85zm59.88 0h-29.851V512h29.85zm59.879 0h-29.851V512h29.85zm59.88 0h-29.851V512h29.85zM151.55 128.902c0-12.272-13.376-19.983-24.018-13.847c-10.643 6.135-10.643 21.557 0 27.693s24.018-1.576 24.018-13.847" />
-</svg>
-  
   <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
   
