@@ -45,8 +45,8 @@ I'm Ons, an ICT engineer who's passionate about exploring the intersection of te
   <!-- MATLAB -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB" />
   
-  <!-- VHDL -->
-  <img src="https://icon-icons.com/icon/VHDL/131901" width="40" height="40" alt="VHDL" />
+  <!-- UML -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/UML_logo.svg" width="40" height="40" alt="UML" />
   
   <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
