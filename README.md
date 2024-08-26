@@ -45,6 +45,9 @@ I'm Ons, an ICT engineer who's passionate about exploring the intersection of te
   <!-- MATLAB -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB" />
   
+  <!-- VHDL -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/VHDL_logo.svg/512px-VHDL_logo.svg.png" width="40" height="40" alt="VHDL" />
+  
   <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
   
@@ -53,7 +56,26 @@ I'm Ons, an ICT engineer who's passionate about exploring the intersection of te
   
   <!-- Windows -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows" />
+  
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  
+  <!-- Unified Modeling Language -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="40" height="40" alt="Unified Modeling Language" />
+  
+  <!-- Visual Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
+  
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </p>
+
 
 
 # 📊 GitHub Stats:
