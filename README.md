@@ -6,7 +6,7 @@ I'm Ons, an ICT engineer who's passionate about exploring the intersection of te
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ons.triqui@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ons-triqui-834b91243/)
 
-## 🛠️ My Skills
+# 🛠️ My Skills:
 
 <p align="left">
   <!-- HTML -->
