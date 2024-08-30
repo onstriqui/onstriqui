@@ -4,7 +4,7 @@ I'm Ons, an ICT engineer who's passionate about exploring the intersection of te
 
 # 🌐 Contact me via:
 <a href="mailto:ons.triqui@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" height="40" alt="Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/ons-triqui-834b91243/">
