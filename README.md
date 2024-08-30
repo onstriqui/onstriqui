@@ -3,8 +3,13 @@
 I'm Ons, an ICT engineer who's passionate about exploring the intersection of technology and innovation, and eager to develop solutions that bridge communication and information systems in our digital world.
 
 # 🌐 Contact me via:
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ons.triqui@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ons-triqui-834b91243/)
+<a href="mailto:ons.triqui@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/ons-triqui-834b91243/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+</a>
 
 # 🛠️ My Skills:
 
