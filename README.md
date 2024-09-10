@@ -29,9 +29,6 @@ I'm Ons, an ICT engineer who's passionate about exploring the intersection of te
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" />
     
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-    
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
   
