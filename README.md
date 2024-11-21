@@ -45,8 +45,7 @@ I'm Ons, an ICT engineer who's passionate about exploring the intersection of te
 
   <!-- Google Colab -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40" alt="Google Colab" />
-
-    <!-- SQL -->
+  <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" />
     
   <!-- MongoDB -->
